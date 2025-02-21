@@ -1,0 +1,7 @@
+langchain-community>=0.0.10
+langchain-core>=0.1.7
+langgraph
+wikipedia-api
+python-dotenv
+openai
+streamlit>=1.30.0 
